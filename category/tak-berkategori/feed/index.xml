@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tak Berkategori &#8211; portofolio afif</title>
-	<atom:link href="https://muhammadafiffathin.github.io/webku/category/tak-berkategori/feed/?simply_static_page=4803" rel="self" type="application/rss+xml" />
-	<link>https://muhammadafiffathin.github.io/webku</link>
+	<atom:link href="https://muhammadafiffathin.github.io/fortopolio/category/tak-berkategori/feed/?simply_static_page=9618" rel="self" type="application/rss+xml" />
+	<link>https://muhammadafiffathin.github.io/fortopolio</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Nov 2023 16:28:48 +0000</lastBuildDate>
 	<language>id</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Halo dunia!</title>
-		<link>https://muhammadafiffathin.github.io/webku/2023/11/06/halo-dunia/</link>
-					<comments>https://muhammadafiffathin.github.io/webku/2023/11/06/halo-dunia/#comments</comments>
+		<link>https://muhammadafiffathin.github.io/fortopolio/2023/11/06/halo-dunia/</link>
+					<comments>https://muhammadafiffathin.github.io/fortopolio/2023/11/06/halo-dunia/#comments</comments>
 		
 		<dc:creator><![CDATA[afifwordpress]]></dc:creator>
 		<pubDate>Mon, 06 Nov 2023 16:28:48 +0000</pubDate>
 				<category><![CDATA[Tak Berkategori]]></category>
-		<guid isPermaLink="false">https://muhammadafiffathin.github.io/webku/?p=1</guid>
+		<guid isPermaLink="false">https://muhammadafiffathin.github.io/fortopolio/?p=1</guid>
 
 					<description><![CDATA[Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!]]></description>
 										<content:encoded><![CDATA[
 <p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://muhammadafiffathin.github.io/webku/2023/11/06/halo-dunia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadafiffathin.github.io/fortopolio/2023/11/06/halo-dunia/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
